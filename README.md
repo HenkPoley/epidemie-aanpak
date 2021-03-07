@@ -3,7 +3,7 @@ Wetsvoorstellen en educatie over COVID-19 en verder. Hoe moeilijk kan het zijn h
 
 ## Wetsvoorstellen:
 * [Isolatie sluizen ziekenhuizen](wetsvoorstellen/isolatie-sluizen-ziekenhuis-kamers.md)
-* [Opschalen van productie persoonlijke beschermende middelen](wetsvoorstellen/respiratiore-epidemie-opschalen-pbm-productie.md)
+* [Opschalen van productie persoonlijke beschermende middelen](wetsvoorstellen/respiratoire-epidemie-opschalen-pbm-productie.md)
 * [Voorlichting tegen incorrect dragen persoonlijke beschermende middelen](wetsvoorstellen/voorlichting-incorrect-dragen-pbm.md)
 
 ## Educatie
