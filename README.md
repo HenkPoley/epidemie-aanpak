@@ -12,6 +12,7 @@ Wil je bijdragen? Voeg jezelf toe bij '[Even voorstellen](MAINTAINERS.md)'
 * [Voorlichting tegen incorrect dragen persoonlijke beschermende middelen](wetsvoorstellen/voorlichting-incorrect-dragen-pbm.md)
 * [Bevolking adviseren niet tussen schone en besmette gebieden te reizen](wetsvoorstellen/bevolking-adviseren-niet-tussen-schone-en-besmette-gebieden-te-reizen.md)
 * [Promotie van epidemie bestrijding in buurlanden](wetsvoorstellen/promotie-van-epidemie-bestrijding-in-buurlanden.md)
+* [Plannen voor gescheiden afvalstromen van mogelijk geïnfecteerden](wetsvoorstellen/plannen-gescheiden-afvalstromen-mogelijk-geinfecteerden.md)
 
 ## Educatie
 * [Hoe effectief is de quarantaine in verschillende landen tijdens de SARS-CoV-2 epidemie?](educatie/vergelijken-efficientie-quarantaines-verschillende-landen.md)
