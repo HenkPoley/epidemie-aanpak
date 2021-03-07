@@ -10,6 +10,7 @@ Wil je bijdragen? Voeg jezelf toe bij '[Even voorstellen](MAINTAINERS.md)'
 * [Isolatie sluizen ziekenhuizen](wetsvoorstellen/isolatie-sluizen-ziekenhuis-kamers.md)
 * [Opschalen van productie persoonlijke beschermende middelen](wetsvoorstellen/respiratoire-epidemie-opschalen-pbm-productie.md)
 * [Voorlichting tegen incorrect dragen persoonlijke beschermende middelen](wetsvoorstellen/voorlichting-incorrect-dragen-pbm.md)
+* [Informatie nummer infectie ziekten](wetsvoorstellen/informatie-nummer-infectie-ziekten.md)
 * [Bevolking adviseren niet tussen schone en besmette gebieden te reizen](wetsvoorstellen/bevolking-adviseren-niet-tussen-schone-en-besmette-gebieden-te-reizen.md)
 * [Promotie van epidemie bestrijding in buurlanden](wetsvoorstellen/promotie-van-epidemie-bestrijding-in-buurlanden.md)
 * [Plannen voor gescheiden afvalstromen van mogelijk geïnfecteerden](wetsvoorstellen/plannen-gescheiden-afvalstromen-mogelijk-geinfecteerden.md)
