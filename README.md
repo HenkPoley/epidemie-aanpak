@@ -17,6 +17,7 @@ Wil je bijdragen? Voeg jezelf toe bij '[Even voorstellen](MAINTAINERS.md)'
 * [Salaris bron en contact onderzoekers](wetsvoorstellen/salaris-bron-en-contact-onderzoekers.md)
 * [Voorlichting tegen misinformatie](wetsvoorstellen/tegen-misinformatie.md)
 * [Dagelijkse informatie voorziening](wetsvoorstellen/dagelijkse-informatie-voorziening.md)
+* [Als persoonlijke beschermende middelen schaars zijn verspreid dan geen misinformatie](wetsvoorstellen/bij-ontbrekende-pbm-verspreid-geen-misinformatie.md)
 
 ## Educatie
 * [Hoe effectief is de quarantaine in verschillende landen tijdens de SARS-CoV-2 epidemie?](educatie/vergelijken-efficientie-quarantaines-verschillende-landen.md)
