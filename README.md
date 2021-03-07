@@ -1,6 +1,8 @@
 # epidemie-aanpak
 Wetsvoorstellen en educatie over COVID-19 en verder. Hoe moeilijk kan het zijn heh? 😅
 
+Mocht je weten hoe je _wel_ wetsvoorstellen of lesboeken schrijft? Zie onderstaande als een voorzetje.
+
 Wil je bijdragen? Voeg jezelf toe bij '[Even voorstellen](MAINTAINERS.md)'
 
 ## Wetsvoorstellen:
