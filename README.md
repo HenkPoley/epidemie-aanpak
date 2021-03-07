@@ -3,6 +3,8 @@ Wetsvoorstellen en educatie over COVID-19 en verder. Hoe moeilijk kan het zijn h
 
 Mocht je weten hoe je _wel_ wetsvoorstellen of lesboeken schrijft? Zie onderstaande als een voorzetje.
 
+Mocht iemand informatie/interviews/etc. hebben over de succesvolle pandemie aanpak van Australië, Nieuw-Zeeland, IJsland, Taiwan, Mongolië, Zuid Korea, Vietnam, Uruguay, Thailand, Cyprus, Rwanda, Letland, of Sri Lanka? Laat het dan weten.
+
 Wil je bijdragen? Voeg jezelf toe bij '[Even voorstellen](MAINTAINERS.md)'
 
 ## Wetsvoorstellen:
