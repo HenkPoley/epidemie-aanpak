@@ -4,7 +4,7 @@ Promoot in Europese Unie, de buurlanden, of buur provincies/deelstaten, een werk
 
 ## Reden: 
 
-Een van de redenen dat de '(bijna) Zero COVID' strategie, die feitelijk werkt in vele landen, afgeblazen is ligt aan de aanname dat er toch altijd veel besmette personen uit het buitenland (Duitsland, België, Luxemburg, mindere mate Verenigd Koninkrijk) Nederland binnen rijden. Een 'self-fulfilling-prophecy'.
+Een van de redenen dat de '(bijna) Zero COVID' strategie, die feitelijk werkt in vele landen, afgeblazen is ligt aan de aanname dat er toch altijd veel besmette personen uit het buitenland (Duitsland, België, Luxemburg, mindere mate Verenigd Koninkrijk) Nederland binnen rijden. Een 'self-fulfilling-prophecy', en cirkel-redenering.
 
 In plaats daarvan zou Nederland juist onze sterke kant van internationale samenwerking moeten toepassen.
 
