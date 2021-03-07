@@ -10,3 +10,4 @@ Wetsvoorstellen en educatie over COVID-19 en verder. Hoe moeilijk kan het zijn h
 
 ## Educatie
 * [Hoe effectief is de quarantaine in verschillende landen tijdens de SARS-CoV-2 epidemie?](educatie/vergelijken-efficientie-quarantaines-verschillende-landen.md)
+* [Meer besmettingen, slechtere economie?](educatie/economische-impact-besmettingen.md)
