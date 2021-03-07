@@ -16,8 +16,11 @@ Bij een effectieve quarantaine infrastructuur zouden de bedrijven dan minder ove
 
 Is het duur of juist goedkoop om mensen een salaris te betalen als ze voor de volksgezondheid in quarantaine werken?
 
+## Leerdoelen:
+ 
+ *
 
-TODO:
+## TODO:
 * Andere landen ?
 * Concreter 'overheids uitgaven'
 * Opdracht: Effectieve landen opzoeken
