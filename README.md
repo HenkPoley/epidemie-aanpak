@@ -15,6 +15,7 @@ Wil je bijdragen? Voeg jezelf toe bij '[Even voorstellen](MAINTAINERS.md)'
 * [Promotie van epidemie bestrijding in buurlanden](wetsvoorstellen/promotie-van-epidemie-bestrijding-in-buurlanden.md)
 * [Plannen voor gescheiden afvalstromen van mogelijk geïnfecteerden](wetsvoorstellen/plannen-gescheiden-afvalstromen-mogelijk-geinfecteerden.md)
 * [Salaris bron en contact onderzoekers](wetsvoorstellen/salaris-bron-en-contact-onderzoekers.md)
+* [Voorlichting tegen misinformatie](wetsvoorstellen/tegen-misinformatie.md)
 
 ## Educatie
 * [Hoe effectief is de quarantaine in verschillende landen tijdens de SARS-CoV-2 epidemie?](educatie/vergelijken-efficientie-quarantaines-verschillende-landen.md)
