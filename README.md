@@ -1,7 +1,7 @@
 # epidemie-aanpak
 Wetsvoorstellen en educatie over COVID-19 en verder. Hoe moeilijk kan het zijn heh? 😅
 
-Wil je bijdragen? Voeg jezelf toe bij' [Even voorstellen](MAINTAINERS.md)'
+Wil je bijdragen? Voeg jezelf toe bij '[Even voorstellen](MAINTAINERS.md)'
 
 ## Wetsvoorstellen:
 * [Isolatie sluizen ziekenhuizen](wetsvoorstellen/isolatie-sluizen-ziekenhuis-kamers.md)
