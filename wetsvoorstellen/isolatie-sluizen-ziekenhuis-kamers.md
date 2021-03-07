@@ -1,4 +1,4 @@
-# Isolatie sluizen ziekenhuizen
+# Isolatie sluizen ziekenhuis kamers & afdelingen
 
 Voorstel om (vaker) bij nieuw- of verbouw van ziekhuis-kamers/zalen de deur als sluis met dubbele schuifdeur uit te voeren, en onderdruk ventilatie.
 

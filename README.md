@@ -10,7 +10,7 @@ Wil je bijdragen? Voeg jezelf toe bij '[Even voorstellen](MAINTAINERS.md)'
 ## Wetsvoorstellen:
 * [Begeleide quarantaine](wetsvoorstellen/begeleide-quarantaine.md)
 * [Tijdens een epidemie alle mogelijk geïnfecteerde personen in quarantaine](wetsvoorstellen/alle-infectie-verdachte-personen-in-quarantaine.md)
-* [Isolatie sluizen ziekenhuizen](wetsvoorstellen/isolatie-sluizen-ziekenhuis-kamers.md)
+* [Isolatie sluizen ziekenhuis kamers & afdelingen](wetsvoorstellen/isolatie-sluizen-ziekenhuis-kamers.md)
 * [Opschalen van productie persoonlijke beschermende middelen](wetsvoorstellen/respiratoire-epidemie-opschalen-pbm-productie.md)
 * [Opschalen test capaciteit](wetsvoorstellen/opschalen-test-capaciteit.md)
 * [Voorlichting tegen incorrect dragen persoonlijke beschermende middelen](wetsvoorstellen/voorlichting-incorrect-dragen-pbm.md)
