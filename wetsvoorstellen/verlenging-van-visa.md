@@ -4,4 +4,4 @@ Voorstel voor het wrijvingsloos verlengen van visa voor mensen die voor de epide
 
 ## Reden
 
-Tijdens een pandemie is het reizen moeilijker. Gaat het leven niet nog onprettiger maken voor deze mensen.
+Tijdens een pandemie is het reizen moeilijker. Ga het leven niet nog onprettiger maken voor deze mensen.
