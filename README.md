@@ -24,6 +24,9 @@ Wil je bijdragen? Voeg jezelf toe bij '[Even voorstellen](MAINTAINERS.md)'
 * [Als persoonlijke beschermende middelen schaars zijn verspreid dan geen misinformatie](wetsvoorstellen/bij-ontbrekende-pbm-verspreid-geen-misinformatie.md)
 * [Reisbubbel tussen schone gebieden](wetsvoorstellen/reisbubbel-schone-gebieden.md)
 * [Opzetten begeleid vervoer vanaf luchthavens en veerboten vanaf besmette gebieden](wetsvoorstellen/opzetten-begeleid-vervoer-met-pbm.md)
+* [Wrijvingsloze verlenging van visa](wetsvoorstellen/verlenging-van-visa.md)
+* [Geef regelmatig uitleg over epidemie begrippen](wetsvoorstellen/voorlichting-epidemie-begrippen.md)
+* [Gebruik de software van de WHO voor bron en contact onderzoek](wetsvoorstellen/bco-software-who.md)
 
 ## Educatie
 * [Hoe effectief is de quarantaine in verschillende landen tijdens de SARS-CoV-2 epidemie?](educatie/vergelijken-efficientie-quarantaines-verschillende-landen.md)
