@@ -30,6 +30,7 @@ Het belangrijkste om te doen tijdens een epidemie, is de (potentieel) geinfectee
 * [Geef regelmatig uitleg over epidemie begrippen](wetsvoorstellen/voorlichting-epidemie-begrippen.md)
 * [Gebruik de software van de WHO voor bron en contact onderzoek](wetsvoorstellen/bco-software-who.md)
 * [Schaal BCO op basis van incubatie dynamiek](schaal-van-bco.md)
+* [Beperk groepsgrootte](beperk-groepsgrootte.md)
 
 ## Educatie
 * [Hoe effectief is de quarantaine in verschillende landen tijdens de SARS-CoV-2 epidemie?](educatie/vergelijken-efficientie-quarantaines-verschillende-landen.md)
