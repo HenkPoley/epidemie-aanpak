@@ -1,5 +1,7 @@
 # Begeleide quarantaine
 
+Geïnfecteerde mensen zijn de mensen die anderen infecteren. Het is dus nuttig om juist die mensen te helpen om minder redenen te hebben naar buiten te gaan, en daarbij anderen te infecteren.
+
 Voorstel om budget vrij te maken om mensen te begeleiden bij de quarantaine. Mensen worden niet geboren met de kennis wat een effectieve quarantaine inhoudt. En in de praktijk komt een kwart van de mensen in quarantaine, incorrect, toch nog buiten. Dit heeft dus duidelijk begeleiding nodig. Neem aan det regelmatig licht aandringen noodzakelijk is bij sommige mensen. 
 
 Wanneer blijf je ergens? Als je er tevreden bent, of als er weggaan nadelen heeft. Zet dit beide in. Geef mensen een salaris om de quarantaine tijd te werken voor de volksgezondheid / overheid. Geef de mensen lokale lekkernijen te eten. Zorg voor vertier (boeken, e.d.). 
