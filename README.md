@@ -31,6 +31,7 @@ Geïnfecteerde mensen zijn de mensen die anderen infecteren. Het belangrijkste o
 * [Gebruik de software van de WHO voor bron en contact onderzoek](wetsvoorstellen/bco-software-who.md)
 * [Schaal BCO op basis van incubatie dynamiek](wetsvoorstellen/schaal-van-bco.md)
 * [Beperk groepsgrootte](wetsvoorstellen/beperk-groepsgrootte.md)
+* [Laat rente van staatsleningen afhangen van behaalde klimaat doeleinden](wetsvoorstellen/lening-klimaat-doeleindend.md)
 
 ## Educatie
 * [Hoe effectief is de quarantaine in verschillende landen tijdens de SARS-CoV-2 epidemie?](educatie/vergelijken-efficientie-quarantaines-verschillende-landen.md)
