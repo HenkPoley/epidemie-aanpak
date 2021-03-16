@@ -8,7 +8,7 @@ Mocht iemand informatie/interviews/etc. hebben over de succesvolle pandemie aanp
 Wil je bijdragen? Voeg jezelf toe bij '[Even voorstellen](MAINTAINERS.md)'
 
 ## Wetsvoorstellen:
-Geïnfecteerde mensen zijn de mensen die anderen infecteren. Het belangrijkste om te doen tijdens een epidemie, is de (potentieel) geinfecteerden scheiden van de gezonde mensen. Als je dingen van deze lijst niet wil/kan doen, doe dan ieder geval dat (👉). Dit kon men in principe al in oude beschavingen 1000en jaren terug. Dit kunnen we ook in de 21ste eeuw.
+Geïnfecteerde mensen zijn de mensen die anderen infecteren. Het belangrijkste om te doen tijdens een epidemie, is de (potentieel) geïnfecteerden scheiden van de gezonde mensen. Als je dingen van deze lijst niet wil/kan doen, doe dan ieder geval dat (👉). Dit kon men in principe al in oude beschavingen 1000en jaren terug. Dit kunnen we ook in de 21ste eeuw.
 
 * 👉 [Begeleide quarantaine](wetsvoorstellen/begeleide-quarantaine.md)
 * 👉 [Tijdens een epidemie alle mogelijk geïnfecteerde personen in quarantaine](wetsvoorstellen/alle-infectie-verdachte-personen-in-quarantaine.md)
